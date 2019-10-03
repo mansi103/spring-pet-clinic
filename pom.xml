@@ -9,7 +9,7 @@
     </parent>
     <groupId>com.spring.demo</groupId>
     <artifactId>spring-pet-clinic</artifactId>
-    <version>0.0.2-SNAPSHOT</version>
+    <version>0.0.1-SNAPSHOT</version>
     <name>spring-pet-clinic</name>
     <description>Demo project for Spring Boot</description>
 
@@ -20,8 +20,8 @@
     </properties>
 
     <scm>
-        <connection>scm:git:git@github.com:martinezhenry/spring-pet-clinic.git</connection>
-        <developerConnection>scm:git:git@github.com:martinezhenry/spring-pet-clinic.git</developerConnection>
+        <connection>scm:git:git@github.com:mansi103/spring-pet-clinic.git</connection>
+        <developerConnection>scm:git:git@github.com:mansi103/spring-pet-clinic.git</developerConnection>
       <tag>HEAD</tag>
   </scm>
 
